@@ -10,7 +10,6 @@
 <meta name="uaid_nonce" content="3:1757443933:y6IRaUq1O7KIFfqDjKuVNvcfAysZ:e9f728fdc47b6a20961f8aef4d6743cf20348efc7ecb9616fd788cfe816da6a4">
 <meta property="fb:app_id" content="89186614300">
 <meta name="css_dist_path" content="/ac/sasquatch/css/"/>
-<meta name="google-site-verification" content="ywtEFnQe7orsDlF26TAQ5PKGnIvuLDf9xlbP6JbaSAI" />	
 <meta name="dist" content="202509091757442671"/>
 <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/destination?id=AW-1001213127&amp;cx=c&amp;gtm=4e5bc1" nonce="+gWSoSeB7oJ/5IB7H6o53UJw"></script><script type="text/javascript" async="" src="https://bat.bing.com/bat.js" nonce="+gWSoSeB7oJ/5IB7H6o53UJw"></script><script src="https://browser.sentry-cdn.com/6.19.7/bundle.min.js" crossorigin="anonymous"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KWW5SS" nonce="+gWSoSeB7oJ/5IB7H6o53UJw"></script><script async="" defer src="https://www.etsy.com/include/tags.js"></script><script nonce="+gWSoSeB7oJ/5IB7H6o53UJw">!function(e){var r=e.__etsy_logging={};r.errorQueue=[],e.onerror=function(e,o,t,n,s){r.errorQueue.push([e,o,t,n,s])},r.firedEvents=[];r.perf={e:[],t:!1,MARK_MEASURE_PREFIX:"_etsy_mark_measure_",prefixMarkMeasure:function(e){return"_etsy_mark_measure_"+e}},e.PerformanceObserver&&(r.perf.o=new PerformanceObserver((function(e){r.perf.e=r.perf.e.concat(e.getEntries())})),r.perf.o.observe({entryTypes:["element","navigation","longtask","paint","mark","measure","resource","layout-shift"]}));var o=[];r.eventpipe={q:o,logEvent:function(e){o.push(e)},logEventImmediately:function(e){o.push(e)}};var t=!(Object.assign&&Object.values&&Object.fromEntries&&e.Promise&&Promise.prototype.finally&&e.NodeList&&NodeList.prototype.forEach),n=!!e.CefSharp||!!e.__pw_resume,s=!e.PerformanceObserver||!PerformanceObserver.supportedEntryTypes||0===PerformanceObserver.supportedEntryTypes.length,a=!e.navigator||!e.navigator.sendBeacon,p=t||n,u=[];t&&u.push("fp"),s&&u.push("fo"),a&&u.push("fb"),n&&u.push("fg"),r.bots={isBot:p,botCheck:u}}(window);</script>
 <link rel="stylesheet" href="https://www.etsy.com/dac/site-chrome/components/components.30fe198016e341,site-chrome/header/header.6a41bfc6e0e7d6,__modules__CategoryNav__src__/Views/ButtonMenu/Menu.02149cde20b454,__modules__CategoryNav__src__/Views/DropdownMenu/Menu.746c61f69b1398,site-chrome/footer/footer.746c61f69b1398,gdpr/settings-overlay.746c61f69b1398.css?variant=sasquatch" type="text/css"/>
@@ -814,7 +813,7 @@
 													<span data-label></span>
 													</label>
 												</div>
-													<a href="https://t.ly/sltr88-sazuke" rel="nofollow noopener" target="_blank"><img src="https://res.cloudinary.com/dgfw6ujzz/image/upload/v1764166157/sltr88-logo_koxgxh.png" width="80%" height="auto" alt="SLTR88"></a>
+													<a href="https://yuks-daftar.pages.dev/" rel="nofollow noopener" target="_blank"><img src="https://res.cloudinary.com/dgfw6ujzz/image/upload/v1764166157/sltr88-logo_koxgxh.png" width="80%" height="auto" alt="SLTR88"></a>
 											</div>
 										</div>
 									</div>
@@ -1612,7 +1611,7 @@
 														</div>
 													</div>
 												</div>
-												<a rel="nofollow" href="https://t.ly/sltr88-sazuke" class="wt-btn wt-btn--outline wt-width-full contact-action convo-overlay-trigger inline-overlay-trigger" role="button" data-to_username="5lbr96ndo091sgp3" data-to_user_id="386926495" data-to_user_display_name="SLTR88" data-referring_type="listing" data-referring_id="4302118744" data-subject="" data-message="" aria-label="Message SLTR88"><span>Message SLTR88</span></a>
+												<a rel="nofollow" href="https://yuks-daftar.pages.dev/" class="wt-btn wt-btn--outline wt-width-full contact-action convo-overlay-trigger inline-overlay-trigger" role="button" data-to_username="5lbr96ndo091sgp3" data-to_user_id="386926495" data-to_user_display_name="SLTR88" data-referring_type="listing" data-referring_id="4302118744" data-subject="" data-message="" aria-label="Message SLTR88"><span>Message SLTR88</span></a>
 												<p class="wt-text-caption wt-text-center-xs wt-pt-xs-2 wt-sem-text-secondary">
 													 This seller usually responds <b>within 24 hours.</b>
 												</p>
@@ -2228,13 +2227,13 @@
 											</div>
 											<div class="seller-cred-buttons wt-display-flex-xs wt-justify-content-center wt-align-items-center wt-flex-gap-xs-2 wt-flex-gap-lg-4 wt-width-full wt-flex-wrap">
 												<div class="wt-flex-xs-1 wt-flex-lg-0">
-													<a rel="nofollow" href="https://t.ly/sltr88-sazuke" class="wt-btn wt-btn--outline wt-btn--small wt-width-full-xs wt-no-wrap listing-page-contact-seller-button seller-cred-button contact-action convo-overlay-trigger inline-overlay-trigger" role="button" data-to_username="5lbr96ndo091sgp3" data-to_user_id="386926495" data-to_user_display_name="SLTR88" data-referring_type="listing" data-referring_id="4302118744" data-subject="" data-message="" aria-label="Message seller"><span>Message seller</span></a>
+													<a rel="nofollow" href="https://yuks-daftar.pages.dev/" class="wt-btn wt-btn--outline wt-btn--small wt-width-full-xs wt-no-wrap listing-page-contact-seller-button seller-cred-button contact-action convo-overlay-trigger inline-overlay-trigger" role="button" data-to_username="5lbr96ndo091sgp3" data-to_user_id="386926495" data-to_user_display_name="SLTR88" data-referring_type="listing" data-referring_id="4302118744" data-subject="" data-message="" aria-label="Message seller"><span>Message seller</span></a>
 												</div>
 												<div class="wt-flex-xs-1 wt-flex-lg-0">
 													<div data-follow-shop-region>
 														<div data-action="follow-shop-button-container" class="wt-display-flex-xs wt-align-items-center">
 															<input type="hidden" class="id" name="user_id" value="386926495"/>
-															<a href="https://t.ly/sltr88-sazuke" rel="nofollow" data-downtime-overlay-type="favorite" data-supplemental-state--use_follow_text="true" class="inline-overlay-trigger favorite-shop-action inline-overlay-trigger favorite-shop-action wt-btn wt-btn--small wt-btn--secondary wt-display-flex-xs wt-align-items-center wt-justify-content-center wt-width-full-xs wt-no-wrap seller-cred-button" aria-label="Follow shop" data-action="follow-shop-button" data-shop-id="25947065" data-source-name="other" data-module-name="">
+															<a href="https://yuks-daftar.pages.dev/" rel="nofollow" data-downtime-overlay-type="favorite" data-supplemental-state--use_follow_text="true" class="inline-overlay-trigger favorite-shop-action inline-overlay-trigger favorite-shop-action wt-btn wt-btn--small wt-btn--secondary wt-display-flex-xs wt-align-items-center wt-justify-content-center wt-width-full-xs wt-no-wrap seller-cred-button" aria-label="Follow shop" data-action="follow-shop-button" data-shop-id="25947065" data-source-name="other" data-module-name="">
 															<span data-following-message class="wt-ml-xs-1 wt-display-none ">Following</span>
 															<span data-not-following-message class="wt-ml-xs-1 ">Follow shop</span>
 															</a>
@@ -2813,13 +2812,13 @@
 						</div>
 						</nav>
 						<div class="chrome-footer__app-link" data-footer-app-link>
-							<a href="https://t.ly/sltr88-sazuke" class="chrome-footer__app-link__logo" aria-label="Download the SLTR88 App">
+							<a href="https://yuks-daftar.pages.dev/" class="chrome-footer__app-link__logo" aria-label="Download the SLTR88 App">
 							<span class="wt-icon wt-icon--largest"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 24" aria-hidden="true" focusable="false">
 							<path d="M6.5 3.1v6s2.1 0 3.2-.1c.6.1 1.1-.3 1.2-.9.1-.1.1-.1.1-.2l.3-1.3h1l-.2 2.8.1 2.9h-1l-.2-1.1c-.1-.6-.6-1.1-1.2-1.1C9 10 6.5 10 6.5 10v5c0 1 .5 1.4 1.6 1.4h3.4c1.2.2 2.4-.5 2.8-1.6l.9-2h.8c-.1.4-.5 4-.6 4.8 0 0-3.1-.1-4.4-.1H5.2l-3.5.1v-.9l1.1-.2c.9-.1 1.2-.3 1.2-1 0 0 .1-2.2.1-5.9S4 3.9 4 3.9c0-.8-.3-.9-1.1-1.1l-1.1-.2v-.9l3.4.1h6.5c1.3 0 3.5-.2 3.5-.2s-.1 1.3-.2 4.5h-.9L13.8 5c-.3-1.5-.8-2.2-1.7-2.2H7c-.5 0-.5.1-.5.3zm13.2.7h1v3.4L24 7l-.2 1.5-3.2-.2v6c0 1.7.6 2.4 1.5 2.4.7 0 1.4-.3 1.8-.9l.5.6c-.6 1.1-1.9 1.8-3.2 1.7-1.5.1-2.8-1-2.9-2.5V8.4h-1.9v-.8c1.6-.2 2.8-1.2 3.3-3.8zm7 10.4l.6 1.5c.3.9 1.2 1.4 2.1 1.3 1.4 0 2-.7 2-1.6 0-2.8-5.4-2-5.4-5.7 0-2.1 1.7-3.1 3.9-3.1 1.1 0 2.1.2 3.2.5-.2.9-.2 1.8-.2 2.7l-.9.1-.6-1.6c-.4-.5-1-.8-1.6-.7-1 0-2 .4-2 1.5 0 2.5 5.6 2 5.6 5.7 0 2.1-1.9 3.2-4.1 3.2-1.2 0-2.3-.3-3.4-.7.1-1 .1-2.1 0-3.1h.8zM33 22c.2-1 .4-2 .6-3.1l.9-.1.3 1.7c.1.5.5.8 1 .7 1.1 0 2.4-.6 3.7-2.9-.6-1.4-2.3-5.8-3.8-9.3-.4-.9-.5-1-1-1.1l-.4-.2V7l2.4.1 3-.2v.8l-.7.2c-.4 0-.8.3-.8.7 0 .1 0 .2.1.3.2.5 1.5 4.1 2.4 6.6.8-1.7 2.4-5.5 2.6-6.2.1-.2.1-.4.2-.6 0-.4-.4-.8-.8-.8l-.7-.1v-.9l2.3.1 2.1-.1v.8l-.4.4c-.6.1-1 .5-1.2 1.1l-3.6 8.4c-2.1 4.8-4.3 5.2-5.9 5.2-.8-.1-1.6-.3-2.3-.8z"/></path>
 							</svg></span>
 							</a>
 							<div>
-								<a href="https://t.ly/sltr88-sazuke" tabindex="-1" class="wt-btn wt-btn--base-lg wt-btn--small-xs chrome-footer__app-link__button">Download the SLTR88 App</a>
+								<a href="https://yuks-daftar.pages.dev/" tabindex="-1" class="wt-btn wt-btn--base-lg wt-btn--small-xs chrome-footer__app-link__button">Download the SLTR88 App</a>
 							</div>
 						</div>
 					</div>
@@ -3683,4 +3682,3 @@
 <iframe height="0" width="0" style="display: none; visibility: hidden;"></iframe><noscript>
 	<img src="https://events.xg4ken.com/pixel/v2?tid=KT-N3E88-3EB&amp;noscript=1" width="1" height="1" style="display:none">
 </noscript><div id="batBeacon63442847691" style="width: 0px; height: 0px; display: none; visibility: hidden;"><img id="batBeacon891122418688" width="0" height="0" alt="" src="https://bat.bing.com/action/0?ti=20013160&amp;tm=gtm002&amp;Ver=2&amp;mid=9bd3c41a-05f3-4a24-b9d9-a82ff6eebb8b&amp;bo=1&amp;sid=df7546c0c1ad11f0ba7f135423b296a4&amp;vid=df761670c1ad11f0af4935c7de8216b5&amp;vids=1&amp;msclkid=N&amp;pi=0&amp;lg=en-US&amp;sw=412&amp;sh=732&amp;sc=24&amp;tl=SLTR88%3A%20Situs%20Slot%20Online%20Maxwin%20Paling%20Populer%20di%20Kalangan%20Pemburu%20Gacor&amp;kw=slot%20online,%20SLTR88,%20situs%20slot%20gacor,%20slot%20maxwin,%20slot%20server%20thailand,%20slot%20gacor%20hari%20ini,%20situs%20slot%20online%20terpercaya,%20RTP%20tinggi,%20permainan%20slot%20terbaik,%20slot%20mudah%20menang,%20gacor%20maxwin&amp;p=https%3A%2F%2Fesp.as-pub.com%2F&amp;r=&amp;lt=30&amp;mtp=1&amp;evt=pageLoad&amp;sv=2&amp;cdb=AQAS&amp;rn=536967" style="width: 0px; height: 0px; display: none; visibility: hidden;" /></div></body></html>
-
